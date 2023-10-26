@@ -1,4 +1,4 @@
-#Configuration for GitHub Action
+#Configuration to trigger Github Actions
 name: Checks
 
 on: [push]
